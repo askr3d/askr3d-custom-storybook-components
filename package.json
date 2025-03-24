@@ -11,6 +11,7 @@
     "askr3d"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/askr3d",
   "repository": {
     "url": "https://github.com/askr3d/askr3d-custom-storybook-components",
     "type": "git"
