@@ -24,7 +24,7 @@ type Story = StoryObj<typeof meta>
 
 export const Basic: Story= {
     args:{
-        label: 'Label',
+        label: 'Label Test',
         size: 'h1'
     }
 };
